@@ -75,3 +75,4 @@ group :production do
 end
 
 gem 'concurrent-ruby', '1.3.4'
+gem 'rails_admin', '~> 2.0'
